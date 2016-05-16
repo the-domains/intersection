@@ -6,9 +6,9 @@ color:
   saturation: 0.3330068401992321
   rhythmicContrast: 0.0698182147461921
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Intersection
