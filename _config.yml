@@ -1,0 +1,14 @@
+layout_spectrum: 0.29430721304379404
+typography_spectrum: 0.4041162945795804
+color:
+  brandStrength: 0.25222919951193035
+  lightness: 0.7781147288624197
+  saturation: 0.3330068401992321
+  rhythmicContrast: 0.0698182147461921
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+name: Intersection
