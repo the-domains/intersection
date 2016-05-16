@@ -1,11 +1,11 @@
 ---
 description: The Existence of God
-dateModified: '2016-05-16T00:36:26.782Z'
-datePublished: '2016-05-16T00:42:13.664Z'
+dateModified: '2016-05-16T01:09:02.054Z'
+datePublished: '2016-05-16T01:09:02.581Z'
 title: 'Intersection: Atheism and Faith with Reason'
 author: []
-starred: false
 sourcePath: _posts/2016-05-16-intersection-atheism-and-faith-with-reason.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
