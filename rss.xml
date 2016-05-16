@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Intersection]]></title>
         <description><![CDATA[Intersection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/intersection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 00:42:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 00:49:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/intersection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Great Inversion: Exchange Independence for Utter Dependence and Enter the Final Stage of Human...]]></title>
+            <description><![CDATA[<article><h1>The Great Inversion: Exchange Independence for Utter Dependence and Enter the Final Stage of Human...</h1><p>A new day arrives and we should be thankful. Each new day is a demonstration of God's faithfulness. Every new day brings with it the sun, and we have faith each and every day that it'll rise over the horizon and bring us warmth and light. But what if it didn't?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72b73dce5c1fb7b254c2e20e33c934a9669cbbee.jpg"></article>]]></description>
+            <link>https://thegrid.ai/intersection/the-great-inversion-exchange-independence-for-utter-depende/index.html</link>
+            <guid isPermaLink="false">ed6ce1d6-f0e5-4bb5-873c-def50811e6c8</guid>
+            <pubDate>Mon, 16 May 2016 00:49:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jesus, a Democrat or a Republican?]]></title>
             <description><![CDATA[<article><h1>Jesus, a Democrat or a Republican?</h1><p>Of course if Jesus lived today he would be a conservative Republican! I don't think so. Neither do I think he'd be a liberal Democrat. Jesus had the luxury of having a "kingdom not of this world." Not only that, he had no interest in politics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8f228179ce7caeec069de64bffc3a3453c2cc92.jpg"></article>]]></description>
-            <link>undefinedjesus-a-democrat-or-a-republican/index.html</link>
+            <link>https://thegrid.ai/intersection/jesus-a-democrat-or-a-republican/index.html</link>
             <guid isPermaLink="false">8ba21a6d-f3de-4304-97cb-f9b07c49bc85</guid>
             <pubDate>Mon, 16 May 2016 00:42:13 GMT</pubDate>
         </item>
