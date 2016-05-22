@@ -15,16 +15,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3330068401992321
+  saturation: 0.797491
   brandStrength: 0.2522291995119303
-  rhythmicContrast: 0.0698182147461921
+  lightness: 0.8028674
   brandColors:
     - '#405952'
     - '#9C9B7A'
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-  lightness: 0.7781147288624197
+  rhythmicContrast: 0.4677419
 typography_spectrum: 0.7706093
 layout_spectrum: 1
 name: Intersection
