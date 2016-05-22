@@ -1,8 +1,22 @@
-typography_spectrum: 0.4041162945795804
+author:
+  name: Adam Harasansky
+  email: harasansky@gmail.com
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.25222919951193035
-  lightness: 0.7781147288624197
   saturation: 0.3330068401992321
+  brandStrength: 0.2522291995119303
   rhythmicContrast: 0.0698182147461921
   brandColors:
     - '#405952'
@@ -10,9 +24,7 @@ color:
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-layout_spectrum: 0.29430721304379404
-author:
-  name: Adam Harasansky
-  email: harasansky@gmail.com
+  lightness: 0.7781147288624197
+typography_spectrum: 0.5268817
+layout_spectrum: 0.294307213043794
 name: Intersection
-title: ''
